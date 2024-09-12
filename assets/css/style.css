@@ -32,3 +32,27 @@ footer {
   text-align: center;
   padding: 20px;
 }
+
+.button-container {
+  display: flex;
+  justify-content: center; /* Centraliza horizontalmente os botões */
+  gap: 10px; /* Espaçamento entre os botões */
+  margin: 20px 0; /* Margem acima e abaixo dos botões */
+}
+
+/* Estilo para os botões */
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 1em;
+  color: white;
+  background-color: #007bff; /* Azul */
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px; /* Bordas arredondadas */
+  transition: background-color 0.3s ease; /* Transição suave para hover */
+}
+
+.btn:hover {
+  background-color: #0056b3; /* Azul mais escuro ao passar o mouse */
+}
