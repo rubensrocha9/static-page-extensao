@@ -16,8 +16,8 @@ linkvideo: [Vídeo](https://www.youtube.com/watch?v=7sjUcldVww0&embeds_referring
 
 <div class="button-container">
   <a href="#link1" class="btn">Acesse o Aplicativo Web</a>
-  <a href="#link2" class="btn">Blog</a>
-  <a href="#link3" class="btn">Vídeo</a>
+  <a href="https://sites.google.com/view/gestorpay/p%C3%A1gina-inicial" class="btn">Blog</a>
+  <a href="https://www.youtube.com/watch?v=7sjUcldVww0&embeds_referring_euri=https%3A%2F%2Fsites.google.com%2F&source_ve_path=Mjg2NjY" class="btn">Vídeo</a>
 </div>
 
 # Aplicação de Gerenciamento de Funcionários
