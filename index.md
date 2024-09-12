@@ -1,10 +1,10 @@
 ---
-title: "Nome do Projeto"
+title: "Gestor Pay"
 draft: false
 language: pt-br
 featured_image: images/featured/featured-img-placeholder.png
 summary: "Uma solução completa para o gerenciamento de funcionários, com funcionalidades de cadastro, modificação de informações, e segurança."
-author: Unifil
+author: Unifil - Rubens Rocha
 categories: [Blog]
 tags: ["CC", "ES", "ADS", "IA", "Educação", "Tecnologia", "Ciência", "Saúde", "Cultura", "Entretenimento"]
 linkandroid: [Link para Android](#)
@@ -13,14 +13,6 @@ linkweb: [Acesse o Aplicativo Web](#)
 linkblog: [Blog](#)
 linkvideo: [Vídeo](#)
 ---
-
-**Advertisement :smile:**
-
-- [**pica**](https://nodeca.github.io/pica/demo/) \- High quality and fast image resize in browser.
-- [**babelfish**](https://github.com/nodeca/babelfish/) \- Developer friendly i18n with plurals support and easy syntax.
-
-You will like those projects!
-
 ---
 
 # Aplicação de Gerenciamento de Funcionários
