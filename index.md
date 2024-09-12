@@ -14,6 +14,12 @@ linkvideo: [Vídeo](https://www.youtube.com/watch?v=7sjUcldVww0&embeds_referring
 ---
 ---
 
+<div class="button-container">
+  <a href="#link1" class="btn">Botão 1</a>
+  <a href="#link2" class="btn">Botão 2</a>
+  <a href="#link3" class="btn">Botão 3</a>
+</div>
+
 # Aplicação de Gerenciamento de Funcionários
 
 A nossa aplicação de gerenciamento de funcionários é projetada para empresas pequenas e startups que buscam otimizar e automatizar o gerenciamento de seus colaboradores. Oferecendo funcionalidades como o cadastro e a atualização de informações de funcionários, além de uma tela de login segura, a aplicação visa melhorar a eficiência e a segurança no gerenciamento de recursos humanos.
