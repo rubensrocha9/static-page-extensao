@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Gestor Pay"
 draft: false
 language: pt-br
