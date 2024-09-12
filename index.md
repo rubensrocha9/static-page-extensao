@@ -17,10 +17,6 @@ linkvideo: [Vídeo](#)
 
 # Aplicação de Gerenciamento de Funcionários
 
-![Ícone do Projeto](images/featured/icon.png)
-
-## Introdução
-
 A nossa aplicação de gerenciamento de funcionários é projetada para empresas pequenas e startups que buscam otimizar e automatizar o gerenciamento de seus colaboradores. Oferecendo funcionalidades como o cadastro e a atualização de informações de funcionários, além de uma tela de login segura, a aplicação visa melhorar a eficiência e a segurança no gerenciamento de recursos humanos.
 
 ## Funcionalidades Principais
@@ -36,22 +32,6 @@ A nossa aplicação de gerenciamento de funcionários é projetada para empresas
 - **Segurança:** Protege os dados com login seguro e gerenciamento de contas.
 - **Escalabilidade:** Adequada para empresas de diferentes tamanhos, crescendo junto com o negócio.
 
-## Conclusão
-
 A aplicação de gerenciamento de funcionários é uma ferramenta essencial para empresas que buscam simplificar e automatizar suas operações de recursos humanos. Com funcionalidades robustas e segurança aprimorada, é ideal para empresas que desejam focar no crescimento e desenvolvimento de seus negócios.
 
 ---
-
-## Links Úteis
-
-- [Download para Android](#)
-- [Download para iOS](#)
-- [Acesse o Aplicativo Web](#)
-- [Blog](#)
-- [Vídeo](#)
-
-## Imagem Centralizada
-
-<div style="text-align: center;">
-  <img src="images/featured/center-image.png" alt="Imagem Centralizada" style="max-width: 100%; height: auto;">
-</div>
