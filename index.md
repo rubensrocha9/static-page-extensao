@@ -15,9 +15,9 @@ linkvideo: [Vídeo](https://www.youtube.com/watch?v=7sjUcldVww0&embeds_referring
 ---
 
 <div class="button-container">
-  <a href="#link1" class="btn">Botão 1</a>
-  <a href="#link2" class="btn">Botão 2</a>
-  <a href="#link3" class="btn">Botão 3</a>
+  <a href="#link1" class="btn">Acesse o Aplicativo Web</a>
+  <a href="#link2" class="btn">Blog</a>
+  <a href="#link3" class="btn">Vídeo</a>
 </div>
 
 # Aplicação de Gerenciamento de Funcionários
