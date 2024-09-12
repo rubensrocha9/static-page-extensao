@@ -1,1 +1,9 @@
-
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%; /* Ajusta a largura máxima para não exceder o contêiner */
+  height: auto;    /* Mantém a proporção da imagem */
+  /* Defina uma largura e altura específicas se necessário */
+  width: 200px;    /* Ajuste conforme necessário */
+  height: auto;    /* Mantém a proporção da imagem */
+}
