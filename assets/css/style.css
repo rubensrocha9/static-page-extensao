@@ -1,15 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Se você quiser aplicar Arial a um elemento específico */
+h1, h2, h3, p {
+  font-family: Arial, sans-serif;
+}
+
 /* Centralizar o conteúdo do header */
 header {
   text-align: center;
-  padding: 20px;
-}
-
-/* Centralizar o conteúdo do main */
-main {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 80vh; /* Ajuste conforme necessário */
   padding: 20px;
 }
 
