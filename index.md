@@ -1,0 +1,65 @@
+---
+title: "Nome do Projeto"
+draft: false
+language: pt-br
+featured_image: images/featured/featured-img-placeholder.png
+summary: "Uma solução completa para o gerenciamento de funcionários, com funcionalidades de cadastro, modificação de informações, e segurança."
+author: Unifil
+categories: [Blog]
+tags: ["CC", "ES", "ADS", "IA", "Educação", "Tecnologia", "Ciência", "Saúde", "Cultura", "Entretenimento"]
+linkandroid: [Link para Android](#)
+linkios: [Link para iOS](#)
+linkweb: [Acesse o Aplicativo Web](#)
+linkblog: [Blog](#)
+linkvideo: [Vídeo](#)
+---
+
+**Advertisement :smile:**
+
+- [**pica**](https://nodeca.github.io/pica/demo/) \- High quality and fast image resize in browser.
+- [**babelfish**](https://github.com/nodeca/babelfish/) \- Developer friendly i18n with plurals support and easy syntax.
+
+You will like those projects!
+
+---
+
+# Aplicação de Gerenciamento de Funcionários
+
+![Ícone do Projeto](images/featured/icon.png)
+
+## Introdução
+
+A nossa aplicação de gerenciamento de funcionários é projetada para empresas pequenas e startups que buscam otimizar e automatizar o gerenciamento de seus colaboradores. Oferecendo funcionalidades como o cadastro e a atualização de informações de funcionários, além de uma tela de login segura, a aplicação visa melhorar a eficiência e a segurança no gerenciamento de recursos humanos.
+
+## Funcionalidades Principais
+
+- **Cadastro de Funcionários:** Permite adicionar novos funcionários com informações detalhadas, como nome, CPF, endereço e cargo.
+- **Modificação de Informações:** Administradores podem atualizar dados como endereço, salário e cargo dos funcionários com facilidade.
+- **Tela de Login:** Garante acesso seguro com credenciais exclusivas para usuários e administradores.
+- **Cadastro de Contas de Usuário:** Facilita o gerenciamento de contas, permitindo que administradores criem e atribuam nomes de usuário e senhas.
+
+## Benefícios da Aplicação
+
+- **Precisão de Dados:** Mantém as informações dos funcionários sempre atualizadas e precisas.
+- **Segurança:** Protege os dados com login seguro e gerenciamento de contas.
+- **Escalabilidade:** Adequada para empresas de diferentes tamanhos, crescendo junto com o negócio.
+
+## Conclusão
+
+A aplicação de gerenciamento de funcionários é uma ferramenta essencial para empresas que buscam simplificar e automatizar suas operações de recursos humanos. Com funcionalidades robustas e segurança aprimorada, é ideal para empresas que desejam focar no crescimento e desenvolvimento de seus negócios.
+
+---
+
+## Links Úteis
+
+- [Download para Android](#)
+- [Download para iOS](#)
+- [Acesse o Aplicativo Web](#)
+- [Blog](#)
+- [Vídeo](#)
+
+## Imagem Centralizada
+
+<div style="text-align: center;">
+  <img src="images/featured/center-image.png" alt="Imagem Centralizada" style="max-width: 100%; height: auto;">
+</div>
